@@ -41,6 +41,6 @@ void configGPIO(GPIO_TypeDef* GPIOx){     // cấu hình cho GPIO mình muốn
 	 
  }
 ```
-1. Mục tiêu của code
+
 
 
